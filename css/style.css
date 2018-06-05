@@ -157,7 +157,7 @@ address span{
 }
 .skill1,.skill2{
 	 float:left;
-	 width:30%;
+	 /*width:30%;*/
 }
 .skill1 h4,.skill2 h4{
 	color:#333;
@@ -179,12 +179,19 @@ address span{
 }
 h3.clr1{
 	background:#6ecadc;
+        width:50%
 }
 h3.clr2{
 	background:#e9a820;
+        width:50%
 }
 h3.clr3{
 	background:#3eb991;
+        width:50%
+}
+h3.clr4{
+	background:#F034C1;
+        width:50%
 }
 .copywrite{
 	padding-left:2em;
